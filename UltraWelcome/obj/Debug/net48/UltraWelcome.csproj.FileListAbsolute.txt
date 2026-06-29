@@ -18,3 +18,4 @@ C:\Users\Alexsandr Pimonov\Desktop\VSTC_Projects\LabApiWelcomeText\UltraWelcome\
 C:\Users\Alexsandr Pimonov\Desktop\VSTC_Projects\LabApiWelcomeText\UltraWelcome\obj\Debug\net48\UltraWel.92EAF257.Up2Date
 C:\Users\Alexsandr Pimonov\Desktop\VSTC_Projects\LabApiWelcomeText\UltraWelcome\obj\Debug\net48\UltraWelcome.dll
 C:\Users\Alexsandr Pimonov\Desktop\VSTC_Projects\LabApiWelcomeText\UltraWelcome\obj\Debug\net48\UltraWelcome.pdb
+C:\Users\Alexsandr Pimonov\Desktop\VSTC_Projects\LabApiWelcomeText\UltraWelcome\obj\Debug\net48\UltraWelcome.sourcelink.json
