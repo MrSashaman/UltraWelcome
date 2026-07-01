@@ -22,8 +22,11 @@ public class WelcomeService
 
     public void HandleJoin(Player player, Config config)
     {
-        string message = config.WelcomeText.Replace("{PlayerName}", player.Nickname);
 
+        string message = config.WelcomeText.Replace("{PlayerName}", player.Nickname);
+        if (config.LogToConsole)
+            Logger.Debug($"Sending welcome message to {player.Nickname}: {player.IpAddress} - {message}");
+        
         _messageService.Send(player, message, config);
     }
 }

@@ -11,7 +11,7 @@ namespace UltraWelcome
         public override string Name => "UltraWelcome";
         public override string Description => "Welcome Players on your server";
         public override string Author => "mrSashaman";
-        public override Version Version => new Version(1, 0, 0);
+        public override Version Version => new Version(1, 0, 1);
         public override Version RequiredApiVersion => new Version(1, 1, 7);
         private WelcomeService _welcomeService;
         private MessageService _messageService;
